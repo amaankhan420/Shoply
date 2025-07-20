@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "312972021839",
+    "project_id": "shoply-16249",
+    "storage_bucket": "shoply-16249.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:312972021839:android:d27bb14ae31face1fe9a3a",
+        "android_client_info": {
+          "package_name": "com.example.shoply"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "312972021839-o7at8hd9s7hqlheagcdffeufeohikbsh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.shoply",
+            "certificate_hash": "b2ea5c5bf7a32ac935c24d2c5dc1bdcd2c06e3fc"
+          }
+        },
+        {
+          "client_id": "312972021839-2s8iegjolm2pa4c5ev9hcftggkbn63ot.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCME98uB_CZFpL41OWqquJyR-gv4OW9_uI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "312972021839-2s8iegjolm2pa4c5ev9hcftggkbn63ot.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
